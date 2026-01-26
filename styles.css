@@ -1,6 +1,7 @@
 
 body {
-    background-image:linear-gradient(to bottom, #d89312, #5a5c5c);
+    /* not quite dialied in on the color scheme yet or the correct page height */
+    background-image:linear-gradient(to bottom, #757574, #e6bc32);
     font-family : Arial, sans-serif;
     margin: 0 auto;
 }
