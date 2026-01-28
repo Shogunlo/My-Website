@@ -3,7 +3,8 @@ body {
     /* not quite dialied in on the color scheme yet or the correct page height */
     background-image:linear-gradient(to bottom, #757574, #e6bc32);
     font-family : Arial, sans-serif;
-    margin: 0 auto;
+    margin: 20px auto;
+    line-height: 1.6;
 }
 .menu_screenshot {
     width:400px;
