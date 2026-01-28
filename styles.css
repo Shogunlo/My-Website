@@ -10,9 +10,13 @@ h1 {
     font-size: large;
 }
 
-h2, h3 {
+h2 {
     font-size: medium;
     margin-top: 30px;
+}
+h3 {
+    font-size: small;
+    margin-top: 10px;
 }
 .menu_screenshot {
     width:400px;
