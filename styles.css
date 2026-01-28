@@ -6,6 +6,14 @@ body {
     margin: 20px auto;
     line-height: 1.6;
 }
+h1 {
+    font-size: large;
+}
+
+h2, h3 {
+    font-size: medium;
+    margin-top: 30px;
+}
 .menu_screenshot {
     width:400px;
     border: 5px solid #333;
