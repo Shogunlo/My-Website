@@ -1,7 +1,8 @@
-head {
+title {
     color: #e6bc32;
     padding: 10px;
     font-family : Arial, sans-serif;
+    font-size: 16pt;
 }
 
 body {
@@ -12,22 +13,20 @@ body {
     line-height: 1.6;
 }
 h1 {
-    font-size: large;
+    font-size: 14pt;
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
 }
 
 h2 {
-    font-size: medium;
+    font-size: 14pt;
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
-    margin-top: 30px;
 }
 h3 {
-    font-size: small;
+    font-size: 13pt;
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
-    margin-top: 10px;
 }
 .menu_screenshot {
     width:400px;
