@@ -1,15 +1,14 @@
 title {
     color: #e6bc32;
-    padding: 10px;
     font-family : Arial, sans-serif;
-    font-size: 16pt;
+    font-size: 20pt;
 }
 
 body {
     /* not quite dialied in on the color scheme yet or the correct page height */
     background-image:linear-gradient(to bottom, #757574, #e6bc32);
     font-family : Arial, sans-serif;
-    margin: 20px auto;
+    margin: 20px;
     line-height: 1.6;
 }
 h1 {
@@ -24,7 +23,7 @@ h2 {
     text-shadow:#333 2px 2px 4px;
 }
 h3 {
-    font-size: 13pt;
+    font-size: 12pt;
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
 }
@@ -38,4 +37,5 @@ h3 {
 a {
     color: #0000EE;
     margin: 10px;
+    display: block;
 }
