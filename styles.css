@@ -63,12 +63,13 @@ li {
 }
 
 .menu_screenshot {
-    width:400px;
+    width:300px;
+    height: 300px;
     border: 5px solid #333;
     border-radius: 50%;
-    height: 200px;
-    transition: .3s ease;
-    object-fit: cover;
+    object-fit: contain;
+    display: block;
+    transition: transform .3s ease;
 }
 
 .menu_screenshot:hover {
