@@ -47,6 +47,9 @@ li {
 
 ul {
     list-style-type: circle;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    padding: 0;
 }
 
 .menu_screenshot {
