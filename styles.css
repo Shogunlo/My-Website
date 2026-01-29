@@ -11,7 +11,6 @@ h1 {
     font-size: 20pt;
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
-    text-indent: 10px;
 }
 
 h2 {
@@ -22,8 +21,8 @@ h2 {
 }
 
 h3 {
-    font-size: 12pt;
-    color:#e6bc32;
+    font-size: 13pt;
+    color:#fcf8f8;
     text-shadow:#333 2px 2px 4px;
     text-indent: 10px;
 }
@@ -33,10 +32,17 @@ section {
 }
 
 p {
-    font-size: 10pt;
+    font-size: 12pt;
     color: #fcf8f8;
     text-shadow: #333 1px 1px 2px;
     text-indent: 15px;
+}
+
+li {
+    font-size: 14pt;
+    color: #fcf8f8;
+    text-shadow: #333 1px 1px 2px;
+    margin-bottom: 5px;
 }
 
 .menu_screenshot {
