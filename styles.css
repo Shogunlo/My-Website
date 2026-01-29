@@ -77,12 +77,26 @@ footer {
 }
 
 a {
-    color: #00d2ee;
     margin: 10px;
     display: block;
     text-indent: 15px;
 }
 
+a:link {
+  color: #000280;
+}
+
+/* visited link */
+a:visited {
+  color: #008015;
+}
+
+/* mouse over link */
 a:hover {
-    color: #ffdd57;
+  color: #ffd000;
+}
+
+/* selected link */
+a:active {
+  color: #00ffea;
 }
