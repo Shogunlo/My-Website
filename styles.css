@@ -22,6 +22,7 @@ h1 {
     font-size: 20pt;
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
+    text-align:center;
 }
 
 h2 {
@@ -36,6 +37,7 @@ h3 {
     color:#fcf8f8;
     text-shadow:#333 2px 2px 4px;
     text-indent: 10px;
+    text-align:center;
 }
 section {
     margin-bottom: 20px;
@@ -86,17 +88,14 @@ a:link {
   color: #000280;
 }
 
-/* visited link */
 a:visited {
   color: #008015;
 }
 
-/* mouse over link */
 a:hover {
   color: #ffd000;
 }
 
-/* selected link */
 a:active {
   color: #00ffea;
 }
