@@ -22,11 +22,19 @@ h2 {
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
 }
+
 h3 {
     font-size: 12pt;
     color:#e6bc32;
     text-shadow:#333 2px 2px 4px;
 }
+
+p {
+    font-size: 10pt;
+    color: #fcf8f8;
+    text-shadow: #333 1px 1px 2px;
+}
+
 .menu_screenshot {
     width:400px;
     border: 5px solid #333;
