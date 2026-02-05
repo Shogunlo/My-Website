@@ -70,7 +70,6 @@ li {
     border-radius: 50%;
     object-fit: cover;
     transition: transform .3s ease;
-    margin: 20px auto;
 }
 
 .menu_screenshot:hover {
@@ -84,6 +83,7 @@ footer {
     border-radius: 10px;
     color: #fcf8f8;
     text-indent: 10px;
+    text-align: center;
 }
 
 a {
