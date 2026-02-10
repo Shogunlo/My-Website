@@ -1,0 +1,95 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image:linear-gradient(to bottom, #757574, #e6bc32);
+    font-family : Arial, sans-serif;
+    line-height: 1.25;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.container h2 {
+    font-size: 1.1rem;
+    color:#e6bc32;
+    text-shadow:#333 0.125rem 0.125rem 0.25rem;
+    text-indent: 0.625rem;
+    text-align: center;
+}
+
+.container p {
+    font-size: 1.0rem;
+    color: #e6bc32;
+    text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
+    text-indent: 0.9rem;
+    text-align: center;
+}
+
+.Left-column-image, .Center-column, .Right-column-image {
+    background-color: #333;
+    color: #e6bc32;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.Header {
+    background-color: rgba(10, 10, 10, 0.5);
+    border-radius: 0.625rem;
+    color: #e6bc32;
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(10, 10, 10, 0.5);
+    border-radius: 0.625rem;
+    color: #e6bc32;
+    text-align: center;
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+}
+
+footer h1 {
+    font-size: 1.0rem;
+    color: #e6bc32;
+    text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
+    text-indent: 0.9rem;
+    text-align: center;
+}
+
+a {
+    margin: 0.625rem;
+    display: block;
+    text-indent: 0.9rem;
+}
+
+a:link {
+  color: #000280;
+}
+
+a:visited {
+  color: #008015;
+}
+
+a:hover {
+  color: #ffd000;
+}
+
+a:active {
+  color: #00ffea;
+}
