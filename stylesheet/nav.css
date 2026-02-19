@@ -1,5 +1,5 @@
 .nav-bar {
-    background-image: linear-gradient(to top, #757574, #e6bc32);
+    background-image: linear-gradient(to bottom, #1d1d1b, #e6bc32);
     color: #f3f2ef;
     text-shadow: #333 0.125rem 0.125rem 0.25rem;
     padding: 12px 20px;
@@ -55,7 +55,7 @@
         top: 100%;
         left: 0;
         width: 100%;
-        background-image: linear-gradient(to bottom, #757574, #e6bc32);
+        background-image: linear-gradient(to bottom, #1d1d1b, #e6bc32);
 
         flex-direction: column;
         align-items: center;

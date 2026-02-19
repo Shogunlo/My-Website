@@ -21,7 +21,7 @@ main {
 h1 {
     background-color: rgba(10, 10, 10, 0.5);
     font-size: 1.65rem;
-    color:#f5b429;
+    color:#f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-align:center;
 }
@@ -29,7 +29,7 @@ h1 {
 .Author-Section-Intro {
     background-color: rgba(10, 10, 10, 0.5);
     font-size: 1.0rem;
-    color: #f5b429;
+    color: #f3f2ef;
     text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
     text-indent: 0.9rem;
     text-align: center;
@@ -37,7 +37,7 @@ h1 {
 .Getting-Started-Section {
     background-color: rgba(10, 10, 10, 0.5);
     font-size: 1.0rem;
-    color: #f5b429;
+    color: #f3f2ef;
     text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
     text-indent: 0.9rem;
 }
@@ -45,21 +45,21 @@ h1 {
 .Introduction-Section {
     background-color: rgba(10, 10, 10, 0.5);
     font-size: 1.0rem;
-    color: #f5b429;
+    color: #f3f2ef;
     text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
     text-indent: 0.9rem;
 }
 
 .Author-Section-Intro h2 {
     font-size: 1.1rem;
-    color:#f5b429;
+    color:#f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-indent: 0.625rem;
     text-align:center;
 }
 .Getting-Started-Section h2 {
     font-size: 1.1rem;
-    color:#f5b429;
+    color:#f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-indent: 0.625rem;
     text-align: center;
@@ -67,7 +67,7 @@ h1 {
 
 .Introduction-Section h2 {
     font-size: 1.1rem;
-    color:#f5b429;
+    color:#f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-indent: 0.625rem;
     text-align: center;
@@ -85,7 +85,7 @@ ul {
 }
 
 li {
-    color: #f5b429;
+    color: #f3f2ef;
     text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
 }
 
@@ -130,7 +130,7 @@ footer {
     padding: 0.625rem;
     background-color: rgba(10, 10, 10, 0.5);
     border-radius: 0.625rem;
-    color: #f5b429;
+    color: #f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-indent: 0.625rem;
     text-align: center;
