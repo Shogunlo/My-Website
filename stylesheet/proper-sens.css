@@ -10,3 +10,36 @@ body {
     font-family : Arial, sans-serif;
     line-height: 1.25;
 }
+
+footer {
+    margin-top: 2rem;
+    padding: 0.625rem;
+    background-color: rgba(172, 164, 164, 0.5);
+    border-radius: 0.625rem;
+    color: #fcf8f8;
+    text-shadow:#333 0.125rem 0.125rem 0.25rem;
+    text-indent: 0.625rem;
+    text-align: center;
+}
+
+a {
+    margin: 0.625rem;
+    display: block;
+    text-indent: 0.9rem;
+}
+
+a:link {
+  color: #000280;
+}
+
+a:visited {
+  color: #008015;
+}
+
+a:hover {
+  color: #ffd000;
+}
+
+a:active {
+  color: #00ffea;
+}
