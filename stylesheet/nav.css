@@ -13,7 +13,7 @@
     font-weight: bold;
 }
 
-.nav-List {
+.nav-list {
     list-style: none;
     display: flex;
     gap: 20px;
@@ -21,7 +21,7 @@
     padding: 0;
 }
 
-.nav-List a {
+.nav-list a {
     color: #f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-decoration: none;
@@ -44,7 +44,7 @@
         display: block;
     }
 
-    .nav-List {
+    .nav-list {
         position:absolute;
         top: 60px;
         left: 0;
@@ -55,7 +55,7 @@
         align-items: center;
         display: none;
     }
-    .nav-List.active {
+    .nav-list.active {
         display: flex;
     }
 }
