@@ -20,7 +20,7 @@ body {
 
 .container h2 {
     font-size: 1.1rem;
-    color:#e6bc32;
+    color:#f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-indent: 0.625rem;
     text-align: center;
@@ -28,15 +28,15 @@ body {
 
 .container p {
     font-size: 1.0rem;
-    color: #e6bc32;
+    color: #f3f2ef;
     text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
     text-indent: 0.9rem;
     text-align: center;
 }
 
 .Left-column-image, .Center-column, .Right-column-image {
-    background-color: #333;
-    color: #e6bc32;
+    background-color: rgba(10, 10, 10, 0.5);
+    color: #f3f2ef;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -51,14 +51,16 @@ body {
 .Header {
     background-color: rgba(10, 10, 10, 0.5);
     border-radius: 0.625rem;
-    color: #e6bc32;
+    color: #f3f2ef;
+    text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-align: center;
 }
 
 footer {
     background-color: rgba(10, 10, 10, 0.5);
     border-radius: 0.625rem;
-    color: #e6bc32;
+    color: #f3f2ef;
+    text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-align: center;
     padding: 1.25rem;
     margin-top: 1.25rem;
@@ -66,7 +68,7 @@ footer {
 
 footer h1 {
     font-size: 1.0rem;
-    color: #e6bc32;
+    color: #f3f2ef;
     text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
     text-indent: 0.9rem;
     text-align: center;
