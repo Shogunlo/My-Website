@@ -1,5 +1,5 @@
 .nav-bar {
-    background-image: linear-gradient(to bottom, #1d1d1b, #e6bc32);
+    background-image: linear-gradient(to bottom, #eebc1a, #4e4d4a);
     color: #f3f2ef;
     text-shadow: #333 0.125rem 0.125rem 0.25rem;
     padding: 12px 20px;
@@ -63,7 +63,9 @@
         padding: 1rem 0;
     }
 
-    .nav-list.active { display: flex; }
+    .nav-list.active {
+        display: flex;
+    }
 
     .container {
         display: flex;
@@ -85,9 +87,13 @@
         display: block;
     }
 
-    .nav-list {gap: 1rem;}
+    .nav-list {
+        gap: 1rem;
+    }
 
-    .nav-list a {font-size: 1rem;}
+    .nav-list a {
+        font-size: 1rem;
+    }
 
     .Left-column-image,
     .Right-column-image {
