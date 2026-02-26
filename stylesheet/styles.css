@@ -13,7 +13,7 @@ body {
 }
 
 main {
-    max-width: 65.5rem;
+    max-width: 65rem;
     margin: 1.25rem auto;
     padding: 0 1.25rem;
 }
@@ -50,27 +50,14 @@ h1 {
     text-indent: 0.9rem;
 }
 
-.Author-Section-Intro h2 {
-    font-size: 1.1rem;
-    color:#f3f2ef;
-    text-shadow:#333 0.125rem 0.125rem 0.25rem;
-    text-indent: 0.625rem;
-    text-align:center;
-}
-.Getting-Started-Section h2 {
-    font-size: 1.1rem;
-    color:#f3f2ef;
-    text-shadow:#333 0.125rem 0.125rem 0.25rem;
-    text-indent: 0.625rem;
-    text-align: center;
-}
-
+.Author-Section-Intro h2,
+.Getting-Started-Section h2,
 .Introduction-Section h2 {
     font-size: 1.1rem;
     color:#f3f2ef;
     text-shadow:#333 0.125rem 0.125rem 0.25rem;
     text-indent: 0.625rem;
-    text-align: center;
+    text-align:center;
 }
 
 section {
@@ -156,4 +143,32 @@ a:hover {
 
 a:active {
   color: #00ffea;
+}
+
+@media (max-width:450px) {
+    h1 {
+    font-size: 1.25rem;
+}
+
+.Author-Section-Intro {
+    font-size: 0.8rem;
+}
+.Getting-Started-Section {
+    font-size: 0.8rem;
+}
+
+.Introduction-Section {
+    font-size: 0.8rem;
+}
+
+.Author-Section-Intro h2,
+.Getting-Started-Section h2,
+.Introduction-Section h2 {
+    font-size: 0.8rem;
+}
+
+ul {
+    font-size: 0.8rem;
+}
+
 }

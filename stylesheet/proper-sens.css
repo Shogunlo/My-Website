@@ -13,6 +13,55 @@ body {
     text-align: center;
 }
 
+.Header {
+    background-color: rgba(10, 10, 10, 0.5);
+    border-radius: 0.625rem;
+    color: #f3f2ef;
+    text-shadow:#333 0.125rem 0.125rem 0.25rem;
+    text-align: center;
+    grid-area: header;
+}
+
+.proper-sens-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "header header header"
+    "left center right"
+    "footer footer footer";
+    gap: 20px;
+}
+
+.proper-sens-container p {
+    font-size: 1.0rem;
+    color: #f3f2ef;
+    text-shadow: #333 0.0625rem 0.0625rem 0.125rem;
+    text-indent: 0.9rem;
+    text-align: left;
+}
+
+.Left-column
+{
+    grid-area: left;
+}
+.Center-column
+{
+    grid-area: center;
+}
+.Right-column
+{
+    grid-area: right;
+}
+
+.Left-column, .Center-column, .Right-column {
+    background-color: rgba(10, 10, 10, 0.5);
+    color: #f3f2ef;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
 footer {
     margin-top: 2rem;
     padding: 0.625rem;
@@ -44,4 +93,35 @@ a:hover {
 
 a:active {
   color: #00ffea;
+}
+
+@media (max-width: 1024px) {
+    /* This media query is for tablets and smaller devices */
+
+    /* Adjusts the grid layout to be horizontal for smaller devices */
+    .proper-sens-container {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "header"
+        "left"
+        "center"
+        "right"
+        "footer";
+    }
+
+    .Center-column p,
+    .Right-column p,
+    .Left-column p {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 450px) {
+    /* This media query is for mobile devices */
+
+    .Center-column p,
+    .Right-column p,
+    .Left-column p {
+        font-size: 0.7rem;
+    }
 }
