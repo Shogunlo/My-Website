@@ -1,11 +1,14 @@
+body html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
     font-family : Arial, sans-serif;
     line-height: 1.25;
     text-align: center;
-    min-height: 100%;
-    margin: 0;
-    padding: 0;
 }
 
 .Header {
@@ -107,6 +110,11 @@ a:active {
     /* This media query is for tablets and smaller devices */
 
     /* Adjusts the grid layout to be horizontal for smaller devices */
+
+    .Header h1{
+        font-size: 1.30rem;
+    }
+
     .proper-sens-container {
         grid-template-columns: 1fr;
         grid-template-areas: 
@@ -114,12 +122,17 @@ a:active {
         "left"
         "center"
         "right"
+        "eDPI-Information"
         "footer";
     }
 
     .Center-column p,
     .Right-column p,
     .Left-column p {
+        font-size: 0.9rem;
+    }
+
+    .eDPI-Information p {
         font-size: 0.9rem;
     }
 }
@@ -130,6 +143,10 @@ a:active {
     .Center-column p,
     .Right-column p,
     .Left-column p {
+        font-size: 0.7rem;
+    }
+
+    .eDPI-Information p {
         font-size: 0.7rem;
     }
 }
