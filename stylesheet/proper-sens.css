@@ -1,13 +1,11 @@
 html {
     min-height: 100%;
-    background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
+    margin: 0;
+    padding: 0;
 }
 
 body {
-    min-height: 100%;
     background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
-    margin: 0;
-    padding: 0;
     font-family : Arial, sans-serif;
     line-height: 1.25;
     color: #f3f2ef;
