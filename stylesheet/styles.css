@@ -1,13 +1,13 @@
-body html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
+html, body {
+    min-height: 100%;
 }
 
 body {
     background-image: linear-gradient(to left, #eebc1a, #4e4d4a);
     font-family: Arial, sans-serif;
     line-height: 1.25;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
