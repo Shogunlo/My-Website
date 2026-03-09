@@ -1,15 +1,11 @@
-html {
-    min-height: 100%;
-    margin: 0;
-    padding: 0;
-}
-
 body {
     background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
     font-family : Arial, sans-serif;
     line-height: 1.25;
-    color: #f3f2ef;
     text-align: center;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .Header {
