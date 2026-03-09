@@ -4,7 +4,7 @@ body, html {
 }
 
 body {
-    background-image:linear-gradient(to bottom, #1d1d1b, #e6bc32);
+    background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
     font-family : Arial, sans-serif;
     line-height: 1.25;
 }

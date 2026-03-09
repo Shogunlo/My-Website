@@ -7,15 +7,9 @@ body, html {
 
 body {
     /* not quite dialied in on the color scheme yet or the correct page height */
-    background-image:linear-gradient(to bottom, #1d1d1b, #e6bc32);
+    background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
     font-family : Arial, sans-serif;
     line-height: 1.25;
-}
-
-main {
-    max-width: 65rem;
-    margin: 1.25rem auto;
-    padding: 0 1.25rem;
 }
 
 h1 {

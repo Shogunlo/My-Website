@@ -6,7 +6,7 @@ body, html {
 
 body {
     /* not quite dialied in on the color scheme yet or the correct page height */
-    background-image:linear-gradient(to bottom, #1d1d1b, #e6bc32);
+    background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
     font-family : Arial, sans-serif;
     line-height: 1.25;
     color: #f3f2ef;
@@ -29,6 +29,7 @@ body {
     grid-template-areas: 
     "header header header"
     "left center right"
+    "eDPI-Information eDPI-Information eDPI-Information"
     "footer footer footer";
     gap: 20px;
 }
@@ -60,6 +61,18 @@ body {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+}
+
+.eDPI-Information{
+    grid-area: eDPI-Information;
+    background-color: rgba(10, 10, 10, 0.5);
+    border-radius: 0.625rem;
+    color: #f3f2ef;
+    text-shadow:#333 0.125rem 0.125rem 0.25rem;
+}
+
+.eDPI-Information p {
+    text-align:center;
 }
 
 footer {
