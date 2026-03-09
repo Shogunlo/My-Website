@@ -5,6 +5,7 @@ html {
 
 body {
     min-height: 100%;
+    background-image:linear-gradient(to left, #eebc1a, #4e4d4a);
     margin: 0;
     padding: 0;
     font-family : Arial, sans-serif;
