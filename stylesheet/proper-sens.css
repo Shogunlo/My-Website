@@ -187,8 +187,23 @@ a:active {
     }
 }
 
+@media (min-width: 451px) and (max-width: 1024px) {
+    /* This media query is for tablets and smaller devices */
+
+  .eDPI-suggestions li {
+        font-size: 0.9rem;
+    }
+}
+
 @media (max-width: 450px) {
     /* This media query is for mobile devices */
+
+    .eDPI-suggestions {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "CS2"
+            "Valorant";
+    }
 
     .Center-column p,
     .Right-column p,
@@ -198,5 +213,8 @@ a:active {
 
     .eDPI-Information p {
         font-size: 0.7rem;
+    }
+     .eDPI-suggestions li {
+        font-size: 0.8rem;
     }
 }

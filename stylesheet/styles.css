@@ -123,6 +123,7 @@ a {
     margin: 0.625rem;
     display: block;
     text-indent: 0.9rem;
+    text-align: center;
 }
 
 a:link {

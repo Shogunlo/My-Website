@@ -29,6 +29,7 @@ body {
     grid-template-areas:
         "header header header"
         "left center right"
+        "left-img enough right-img"
         "footer footer footer";
     gap: 20px;
 }
@@ -64,9 +65,24 @@ body {
     grid-area: right;
 }
 
+.lower-left-img {
+    grid-area: left-img;
+}
+
+.lower-center {
+    grid-area: enough;
+}
+
+.lower-right-img {
+    grid-area: right-img;
+}
+
 .Left-column-image,
 .Center-column,
-.Right-column-image {
+.Right-column-image,
+.lower-left-img,
+.lower-center,
+.lower-right-img {
     background-color: rgba(10, 10, 10, 0.5);
     color: #f3f2ef;
     padding: 10px;
@@ -76,6 +92,16 @@ body {
 
 .Left-column-image img,
 .Right-column-image img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.lower-left-img img,
+.lower-right-img img {
     width: 100%;
     max-width: 100%;
     height: auto;
@@ -125,9 +151,22 @@ a:active {
     color: #00ffea;
 }
 
+@media (max-width: 1391px) {
+    .why-container h2 {
+        font-size: 1rem;
+    }
+
+    .why-container p {
+        font-size: 0.9rem;
+    }
+}
+
 @media (max-width: 1024px)
 /* This media query is for tablets and smaller devices */
     {
+    .Header h1 {
+        font-size: 1.30rem;
+    }
 
     /* Adjusts the grid layout to be horizontal for smaller devices */
     .why-container {
@@ -135,29 +174,40 @@ a:active {
         grid-template-areas:
             "header"
             "center"
+            "enough"
+            "left-img"
+            "right-img"
             "left"
             "right"
             "footer";
     }
 
-    .Center-column h2 {
+    .Center-column,
+    .lower-center h2 {
         font-size: 1rem;
         line-height: 1;
     }
 
-    .Center-column p {
-        font-size: 0.9rem;
+    .Center-column,
+    .lower-center p {
+        font-size: 0.8rem;
     }
 }
 
 @media (max-width: 450px) {
 
+    .Header h1 {
+        font-size: 1.15rem;
+    }
+
     /* This media query is for mobile devices */
-    .Center-column h2 {
+    .Center-column,
+    .lower-center h2 {
         font-size: 0.9rem;
     }
 
-    .Center-column p {
+    .Center-column,
+    .lower-center p {
         font-size: 0.7rem;
     }
 }
