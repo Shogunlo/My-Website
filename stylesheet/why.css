@@ -1,10 +1,13 @@
-html, body {
+html,
+body {
     min-height: 100%;
 }
 
 body {
     background-image: linear-gradient(to left, #eebc1a, #4e4d4a);
-    font-family: Arial, sans-serif;
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     line-height: 1.25;
     margin: 0;
     padding: 0;
@@ -14,7 +17,7 @@ body {
     background-color: rgba(10, 10, 10, 0.5);
     border-radius: 0.625rem;
     color: #f3f2ef;
-    text-shadow:#333 0.125rem 0.125rem 0.25rem;
+    text-shadow: #333 0.125rem 0.125rem 0.25rem;
     text-align: center;
     grid-area: header;
 }
@@ -23,17 +26,17 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
-    grid-template-areas: 
-    "header header header"
-    "left center right"
-    "footer footer footer";
+    grid-template-areas:
+        "header header header"
+        "left center right"
+        "footer footer footer";
     gap: 20px;
 }
 
 .why-container h2 {
     font-size: 1.1rem;
-    color:#f3f2ef;
-    text-shadow:#333 0.125rem 0.125rem 0.25rem;
+    color: #f3f2ef;
+    text-shadow: #333 0.125rem 0.125rem 0.25rem;
     text-indent: 0.625rem;
     text-align: center;
 }
@@ -49,20 +52,21 @@ body {
 
 /* Setup so I can declare the grid areas for the columns */
 
-.Left-column-image
-{
+.Left-column-image {
     grid-area: left;
 }
-.Center-column
-{
+
+.Center-column {
     grid-area: center;
 }
-.Right-column-image
-{
+
+.Right-column-image {
     grid-area: right;
 }
 
-.Left-column-image, .Center-column, .Right-column-image {
+.Left-column-image,
+.Center-column,
+.Right-column-image {
     background-color: rgba(10, 10, 10, 0.5);
     color: #f3f2ef;
     padding: 10px;
@@ -72,10 +76,10 @@ body {
 
 .Left-column-image img,
 .Right-column-image img {
-    width:100%;
+    width: 100%;
     max-width: 100%;
     height: auto;
-    display:block;
+    display: block;
     margin: 0 auto;
     border-radius: 10px;
 }
@@ -84,7 +88,7 @@ footer {
     background-color: rgba(10, 10, 10, 0.5);
     border-radius: 0.625rem;
     color: #f3f2ef;
-    text-shadow:#333 0.125rem 0.125rem 0.25rem;
+    text-shadow: #333 0.125rem 0.125rem 0.25rem;
     text-align: center;
     padding: 1.25rem;
     margin-top: 1.25rem;
@@ -106,33 +110,34 @@ a {
 }
 
 a:link {
-  color: #000280;
+    color: #000280;
 }
 
 a:visited {
-  color: #008015;
+    color: #008015;
 }
 
 a:hover {
-  color: #ffd000;
+    color: #ffd000;
 }
 
 a:active {
-  color: #00ffea;
+    color: #00ffea;
 }
 
 @media (max-width: 1024px)
-/* This media query is for tablets and smaller devices */ {
+/* This media query is for tablets and smaller devices */
+    {
 
     /* Adjusts the grid layout to be horizontal for smaller devices */
     .why-container {
         grid-template-columns: 1fr;
-        grid-template-areas: 
-        "header"
-        "center"
-        "left"
-        "right"
-        "footer";
+        grid-template-areas:
+            "header"
+            "center"
+            "left"
+            "right"
+            "footer";
     }
 
     .Center-column h2 {
@@ -146,6 +151,7 @@ a:active {
 }
 
 @media (max-width: 450px) {
+
     /* This media query is for mobile devices */
     .Center-column h2 {
         font-size: 0.9rem;

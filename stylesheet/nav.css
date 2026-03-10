@@ -13,6 +13,8 @@
 .nav-brand {
     font-size: 1.4rem;
     font-weight: bold;
+    font-family: "Audiowide", sans-serif;
+    font-style: normal;
 }
 
 .nav-list {
