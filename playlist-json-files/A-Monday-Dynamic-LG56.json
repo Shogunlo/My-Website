@@ -1,0 +1,83 @@
+{
+	"playlistName": "A - Monday - Dynamic (AD PLUS) - LG56",
+	"playlistId": 111592,
+	"authorSteamId": "76561199038915548",
+	"authorName": "Lowgravity56",
+	"scenarioList": [
+		{
+			"scenario_name": "Tamspeed 2bpes LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "BeanClick LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Star Clicking Ultra LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pasu Track Invincible Small LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "canTS LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pasu Voltaic Small 3ShotR5 LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Pasu Rasp Advanced Speed Focus LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "1wall5targets_pasu_small_LG56_AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "1wall5targets_pasu_small_reactive_LG56_AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Pasu Rasp Advanced LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Pasu Rasp Advanced",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Leapcorn Pure LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Popcorn VT Goated LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "B180 Voltaic Small 3 Click LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT Bounceshot Barriers LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Bounceshot Advanced LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT Bounceshot Advanced",
+			"play_Count": 5
+		}
+	],
+	"description": "Dynamic Advanced plus Playlist.\r\nRecommended FOV: 103\r\nRecommended sens: 30 - 55cm/360\r\n\r\nFalkior wanted me to make this :p\r\n\r\nHappy grinding! \r\n- Lowgravity56",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1682026127,
+	"isPrivate": false
+}

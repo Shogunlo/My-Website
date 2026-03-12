@@ -1,0 +1,83 @@
+{
+	"playlistName": "F - Saturday - Evasive TS (AD PLUS) - LG56",
+	"playlistId": 112813,
+	"authorSteamId": "76561199038915548",
+	"authorName": "Lowgravity56",
+	"scenarioList": [
+		{
+			"scenario_name": "dev 1target small LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "FuglaaXYZ TS Small LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "AirTargetSwitch LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "TamTargetSwitch Control LowTTK HARD LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Controlsphere TS LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Kints Voltaic More HP Small",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT evaTS Advanced Smooth LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT evaTS Advanced LowTTK Small LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT evaTS Advanced HARD LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT evaTS Advanced",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "CanTS LowTTK LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Pasu Track Smaller LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Popcorn Goated Tracking Hard",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT bounceTS Advanced LowTTK LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT bounceTS Advanced Smooth LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT bounceTS Advanced HARD LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT bounceTS Advanced",
+			"play_Count": 5
+		}
+	],
+	"description": "Evasive Advanced Plus Playlist.\r\nRecommended FOV: 110 - 120\r\nRecommended sens: 25 - 50cm/360\r\n\r\nFalkior wanted me to make this :p\r\n\r\nHappy grinding!\r\n- Lowgravity56",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1682026127,
+	"isPrivate": false
+}

@@ -1,0 +1,95 @@
+{
+	"playlistName": "D - Thursday - Reactive Tracking (AD PLUS) - LG56",
+	"playlistId": 109197,
+	"authorSteamId": "76561199038915548",
+	"authorName": "Lowgravity56",
+	"scenarioList": [
+		{
+			"scenario_name": "VSS Thin Aiming Long Raspberry LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Midrange Long Strafes Thin Invincible LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Midrange Short Strafes Invincible Raspberry LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "MSS Insanity Raspberry LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Close long Strafes Invincible LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Close Fast Strafes Invincible LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Trackstop LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "MFSI Hard LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "LDDH LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Plaza Advanced Thin LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Plaza Advanced",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Vert Reactive LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "FuglaaXYZ Voltaic small LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Air NUNS AIO Hard Far LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Air NUNS AIO Hard Close LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Air Angelic 7 Grandmaster LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Air UFO Hard Small Invincible LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Air Varied Advanced Small LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Air Advanced Small LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Air Advanced",
+			"play_Count": 5
+		}
+	],
+	"description": "Reactive Advanced plus Playlist.\r\nRecommended FOV: 103\r\nRecommended sens: 20 - 55cm/360\r\n\r\nFalkior wanted me to make this :p\r\n\r\nHappy grinding!\r\n- Lowgravity56",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1682026127,
+	"isPrivate": false
+}

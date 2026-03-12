@@ -1,0 +1,155 @@
+{
+	"playlistName": "tracking",
+	"playlistId": 34307,
+	"authorSteamId": "76561198136641668",
+	"authorName": "icegorge",
+	"scenarioList": [
+		{
+			"scenario_name": "Thin Gauntlet",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Quake LG - PROv01",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Kindaclose Fast Strafes Thin",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Close Fast Strafes Invincible - Ultra Thin",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "[MCA-2] Through Hole Tracking Sideways",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "fuglaaXYShortstrafes Far",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "fuglaaXYShortstrafesHARD",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Angelic 4 Voltaic Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Angelic 4 Voltaic Smaller",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "tamTargetSwitch Control Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "tamTargetSwitch Smooth Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "tamTargetSwitch Smooth Hard faster",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "3D Switching",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Vertical Switching small lg",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Lap360TS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Switch Pure",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "ToonsTS rAim",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "canTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "3D Mid Dodge Grandmaster",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "voxTS Voltaic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "voxTS Viscose Varied",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "beanTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Narrow Strafe",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Adjust to track",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WPV LineTrack V2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WPV Vertsphere",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WPV Semi-Reactive Strafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Midrange FS Inv Blink",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cloverRawControl",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FuglaaXYZ Voltaic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FuglaaXYZ Voltaic small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT PatStrafe Advanced",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT PatStrafe Advanced Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smoothbot Voltaic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smoothbot TS Voltaic",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1725405629,
+	"isPrivate": false
+}

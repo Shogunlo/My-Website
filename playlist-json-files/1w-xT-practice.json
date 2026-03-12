@@ -1,0 +1,123 @@
+{
+	"playlistName": "1w xT practice icegorge",
+	"playlistId": 177426,
+	"authorSteamId": "76561198136641668",
+	"authorName": "icegorge",
+	"scenarioList": [
+		{
+			"scenario_name": "1wall 1target small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall 1target getting smaller",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall 1target",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall1target TE horizontalish",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Flip off Flick Wall",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pokeball Frenzy Auto 1w2ts",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w2ts reload",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w2t smallflicks small 60s ",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1 wall 2 targets horizontal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Valorant Small Horizontal Flicks",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall2targets TE",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall 2targets small - valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w3ts reload",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall3t Reflex Flick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall 3targets small horizontalish",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w4ts reload",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w4ts reload 30% smaller",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pokeball 1w4ts 30%",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w6t NQS Raspberry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall 6targets small Horizontalish",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall 6targets small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall9000targets",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall9000targets small (60 sec)",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "voxTS Static Click rAim",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WPV TAF Speed",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WPV 5 Sphere",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Reflex Flick - Hard",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1688264609,
+	"isPrivate": false
+}

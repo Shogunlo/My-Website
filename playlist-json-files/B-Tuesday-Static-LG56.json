@@ -1,0 +1,87 @@
+{
+	"playlistName": "B - Tuesday - Static (AD PLUS) - LG56",
+	"playlistId": 111875,
+	"authorSteamId": "76561199038915548",
+	"authorName": "Lowgravity56",
+	"scenarioList": [
+		{
+			"scenario_name": "RawMouseControl Reload LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Reflex Flick - Accuracy",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Reflex Flick - Aimgod",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pokeball Auto ww6ts LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "ww3t Voltaic small LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT Multiclick 180 Advanced Pokeball LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT Multiclick 180 Advanced Cluster Focus LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT Multiclick 180 Advanced Speed Focus LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT Multiclick 180 Advanced LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Multiclick 180 Advanced",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Pokeball 5 Sphere Hipfire Extra Small LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "6 sphere hipfire voltaic extra small lg56 aimgod",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Pokeball Frenzy Auto 1w2ts LG56",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "1w2t_vbr Raspberry LG56",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT 1w3ts Rasp Advanced LG56",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "FuglaaPressure 3 targets LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT 1w2ts Rasp Advanced LG56",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT 1w3ts Rasp Advanced",
+			"play_Count": 5
+		}
+	],
+	"description": "Static Advanced Playlist.\r\nRecommended FOV: 103\r\nRecommended sens: 30 - 60cm/360 \r\n\r\nFalkior wanted me to make this :p\r\n\r\nHappy grinding!\r\n- Lowgravity56",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1682026127,
+	"isPrivate": false
+}

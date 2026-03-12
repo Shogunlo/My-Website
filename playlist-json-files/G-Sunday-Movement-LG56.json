@@ -1,0 +1,107 @@
+{
+	"playlistName": "G - Sunday - Movement (AD PLUS) - LG56",
+	"playlistId": 112819,
+	"authorSteamId": "76561199038915548",
+	"authorName": "Lowgravity56",
+	"scenarioList": [
+		{
+			"scenario_name": "Revolving Tracking Extra Thin LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Revolving Tracking Strafes Thin LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Cycle Strafes Mid Varied Hard LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Close FS Dodge HARD LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "lgc3 Reborn Varied Thin LG56 AIMGOD",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "VT PatStrafe Advanced Harder LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT PatStrafe Advanced",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Revolving Tracking Air Small LG56 AIMGOD",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Air AIO Angelic Dodge Hard LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "XY Tracking Dodge Harder LG56 AIMGOD",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "VT AirStrafe Advanced Harder LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT AirStrafe Advanced",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Psalm Click Revolving Hard",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "PSGS Smaller Headshot Only LG56 Hard",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pasu TrackTS Dodge LG56 AIMGOD",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pasu Dodge 3click LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT AngleStrafe Advanced Small Hard LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT AngleStrafe Advanced",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "B180 Voltaic Revolving Hard",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Popcorn Dodge LG56 Hard",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT ArcStrafe Advanced 3click LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT ArcStrafe Advanced Smaller Hard LG56 AIMGOD",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "VT ArcStrafe Advanced",
+			"play_Count": 5
+		}
+	],
+	"description": "Mvmnt. Advanced Plus Playlist.\r\nRecommended FOV: 103 - 110\r\nRecommended sens: 25 - 50cm/360\r\n\r\nFalkior wanted me to make this :p\r\n\r\nHappy grinding!\r\n- Lowgravity56",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1682026127,
+	"isPrivate": false
+}
