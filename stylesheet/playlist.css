@@ -55,7 +55,7 @@ body {
 
 .CS2-benchmark ul,
 .Valorant-benchmark ul {
-    text-align: left;
+    text-align: center;
     list-style-position: inside;
     padding-left: 0;
 }
